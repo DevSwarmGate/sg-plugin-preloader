@@ -1,0 +1,11 @@
+{
+  "name": "sg-api-preloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/Preloader",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Yongtao Tang",
+  "license": "MIT"
+}
